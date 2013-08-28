@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f4aa6b56-2456-4236-b675-9dcd1f7c3e7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/script.js" />
-    </list>
+    <list default="true" id="f4aa6b56-2456-4236-b675-9dcd1f7c3e7c" name="Default" comment="" />
     <ignored path="NodeJS.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="f4aa6b56-2456-4236-b675-9dcd1f7c3e7c" time="1377706939380" ignored="false" />
